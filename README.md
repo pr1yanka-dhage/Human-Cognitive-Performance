@@ -77,8 +77,9 @@ This app includes the following machine learning regressors:
 - XGBoost Regressor
 - Random Forest Regressor
 - CatBoost Regressor
+  and many other models
 
-All models are pre-trained and stored as `.pkl` files. You can choose between them on the dashboard for prediction.
+All models are pre-trained and stored as `.joblib` files. You can choose between them on the dashboard for prediction.
 
 ---
 
